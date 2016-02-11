@@ -1,0 +1,10 @@
+/* slider */
+.caption-Top,
+.caption-Right,
+.caption-Left,
+.caption-Bottom{
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99ffffff, endColorstr=#99ffffff);
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99ffffff, endColorstr=#99ffffff)";
+    background: transparent\9;/*IE8 eand below*/
+}
+.dd-menu .sub-menu{ top: 29px !important;}

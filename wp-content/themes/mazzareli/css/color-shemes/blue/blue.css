@@ -1,0 +1,68 @@
+/* blue template */
+
+/* Backgrounds */
+html{background:url(html-bg.png) repeat top left;}
+
+#menu-categories.background{background: url("menu-category-bg.png") repeat-x scroll left top transparent;}
+.mask{background-image:url(home-slider-mask.png);}
+
+.small-slider h2 a, #menu-slider h3 a{color:#4A6069;}
+.small-slider p {color:#413B34;}
+.small-slider h2 {color: #4A6069;}
+
+#intro{ background:url("menu-category-bg.png") repeat-x scroll left 74px transparent;}
+#intro h1{ color:#4A6069; }
+
+#content{ background:url(../../../images/sub-content-bg.jpg) repeat left top;}
+.page h2{color:#4A6069;}
+
+ul.bullets li, ul.arrows li, ul.stars li, ul.checklist li{ background-image: url("bullet-arrows.png"); }
+ul.bullets, ol.list, ul.arrows, ul.stars, ul.checklist{ color:#4A6069; }
+
+h2.title{color:#4A6069;}
+
+.post h1 {color:#4A6069;}
+.post h2 a, .post h2{color:#4A6069;}
+.post .meta .comments{ background: url(icon-cloud.png) no-repeat top left;}
+.post .meta .comments a{ color: #4A6069;}
+
+.post-list .post p a { color: #4A6069;}
+.post-list .post p a:hover { color: #9F1501;}
+
+#content .page a{color: #4A6069;}
+#content .page a:hover{color: #9F1501;}
+
+#comments h2 {color: #4A6069;}
+#comments ul.comment-avatar a {color: #4A6069;}
+
+.add-comment h2 {color: #4A6069;}
+.profile a {color: #4A6069;}
+
+/* Widgets */
+.widget > ul.bullets li, 
+.widget > ul.arrows li, 
+.widget > ul.stars li, 
+.widget > ul.checklist li{background-image: none; }
+
+.widget h2.title a, .widget h3.title a, .widget li a { color:#4A6069; }
+.widget_pages > ul > li, .widget_archive ul li{ color:#4A6069; }
+.widget_links ul li{ color:#4A6069; }
+
+.widget_meta ul li:before, 
+.widget_pages ul li:before, 
+.widget_archive ul li:before, 
+.widget_recent_entries ul li:before, 
+.widget_links ul li:before {
+    background-image: url(bullet-arrows.png);
+}
+
+.widget_text a{color:#4A6069;}
+.widget_tag_cloud a{ color:#4A6069; }
+.widget_calendar a{ color:#4A6069; }
+
+.events-calendar{background:url(callendar-events.png) no-repeat left top;}
+.error404 h1 {color: #4A6069;}
+.error404 h3 {color: #4A6069;}
+.price-heading a{color: #4A6069;}
+.review p{background:url(icon-testimonial.png) no-repeat left top;}
+.portfolio-menu h3.title a{color: #4A6069;}

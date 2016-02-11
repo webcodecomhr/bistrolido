@@ -1,0 +1,2670 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mazzareli WP Theme\n"
+"POT-Creation-Date: 2013-02-03 02:50+0100\n"
+"PO-Revision-Date: 2013-02-03 02:50+0100\n"
+"Last-Translator: milos <milos@themelaboratory.com>\n"
+"Language-Team: Theme Laboratory <support@themelaboratory.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;_x;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: C:\\Users\\milos\\Documents\\sites\\mazzareli\\www"
+"\\342\\wp-content\\themes\\mazzareli\n"
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/404.php:17
+msgid "Try one of the following"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/404.php:19
+msgid "Go to"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/404.php:19
+msgid "homepage"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/404.php:20
+msgid "Contact us via "
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/archive-testimonial.php:28
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/archive.php:49
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/index.php:47
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/search.php:56
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-blog-2cols-archive.php:76
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-blog-3cols-archive.php:76
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-blog-4cols-archive.php:77
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-blog-big-list.php:64
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-blog-medium-list.php:64
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-blog-sidebar.php:69
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-blog-small-list.php:64
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-event-list-without-sidebar.php:53
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-event-list.php:53
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-testimonial-list-no-sidebar.php:60
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-testimonial-list.php:58
+msgid "Previous"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/archive-testimonial.php:29
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/archive.php:50
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/index.php:48
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/search.php:57
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-blog-2cols-archive.php:77
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-blog-3cols-archive.php:77
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-blog-4cols-archive.php:78
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-blog-big-list.php:65
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-blog-medium-list.php:65
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-blog-sidebar.php:70
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-blog-small-list.php:65
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-event-list-without-sidebar.php:54
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-event-list.php:54
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-testimonial-list-no-sidebar.php:61
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-testimonial-list.php:59
+msgid "Next"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/archive.php:22
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/index.php:19
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/single-event.php:22
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/single-product.php:16
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/single.php:18
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-blog-sidebar.php:42
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-book-table.php:42
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-event-list-without-sidebar.php:36
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-event-list.php:36
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/EventPostType.php:37
+msgid "Date"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/archive.php:23
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/index.php:20
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/single-product.php:17
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/single.php:19
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-blog-sidebar.php:43
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-part-ribbon.php:35
+msgid "Author"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/archive.php:24
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/index.php:21
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/single-product.php:18
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/single.php:20
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-blog-sidebar.php:44
+msgid "Categories"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/archive.php:26
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/index.php:23
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/single.php:22
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-blog-sidebar.php:46
+msgid "All comments for"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/archive.php:37
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/index.php:34
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-blog-2cols-archive.php:59
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-blog-3cols-archive.php:59
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-blog-4cols-archive.php:60
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-blog-big-list.php:54
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-blog-medium-list.php:54
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-blog-sidebar.php:57
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-blog-small-list.php:54
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-event-list-without-sidebar.php:43
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-event-list.php:43
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-part-home-featured.php:82
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/ThemeSetup.php:399
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:167
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/AnythingSlider.php:111
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/AnythingSlider.php:216
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/AnythingSlider.php:282
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeChefWidget.php:35
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeSpecialWidget.php:37
+msgid "Read More"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/archive.php:39
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/index.php:36
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/index.php:37
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/single-product.php:32
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/single.php:37
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-blog-sidebar.php:59
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-product-one-no-sidebar.php:39
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-product-one.php:38
+msgid "Tags"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/comments.php:5
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/comments.php:12
+msgid "Comments"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/comments.php:33
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/comments.php:37
+msgid "Leave a Reply"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/comments.php:38
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/comments.php:39
+msgid "Cancel reply"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/comments.php:40
+msgid "Post Comment"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/footer.php:21
+msgid "Terms and Conditions"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/footer.php:24
+msgid "Copyrights"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/footer.php:27
+msgid "Site Map"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/header.php:20
+msgid "Archive"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/header.php:23
+msgid "Search for"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/header.php:30
+msgid "Not Found"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/header.php:40
+msgid "- page"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/header.php:98
+msgid "Book Table"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/search.php:30
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/search.php:48
+msgid "Nothing Found"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/single-event.php:23
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-event-list-without-sidebar.php:37
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-event-list.php:37
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/EventPostType.php:38
+msgid "Place"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/single-event.php:24
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-event-list-without-sidebar.php:38
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-event-list.php:38
+msgid "No. participants"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/taxonomy-food_type.php:27
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-menu1.php:80
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-part-home-featured.php:75
+msgid "Specialty"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-book-table.php:28
+msgid "Party Size"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-book-table.php:30
+msgid "Number of guests"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-book-table.php:38
+msgid "Over"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-book-table.php:46
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/TestimonialsPostType.php:38
+msgid "Name"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-book-table.php:50
+msgid "Email"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-book-table.php:54
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:288
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeContactInfoWidget.php:122
+msgid "Phone"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-book-table.php:58
+msgid "Additional Info"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-book-table.php:63
+msgid "Book a table"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-book-table.php:64
+msgid "Reset"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-contact.php:28
+msgid "Your Name"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-contact.php:32
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeContactFormWidget.php:97
+msgid "Your E-mail"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-contact.php:36
+msgid "Your Website"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-contact.php:40
+msgid "Subject"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-contact.php:44
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeContactFormWidget.php:101
+msgid "Your Message"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-contact.php:49
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeContactFormWidget.php:31
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeContactFormWidget.php:106
+msgid "Contact Us"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-contact.php:50
+msgid "Clear form"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-contact.php:57
+msgid "Find us on Google Maps"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-page-menu1.php:31
+msgid "Menu Of The Day"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-part-ribbon.php:27
+msgid "Tag"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-part-ribbon.php:29
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-part-ribbon.php:33
+msgid "Archives for"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-part-ribbon.php:37
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-part-ribbon.php:43
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:18
+msgid "Blog"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-part-ribbon.php:39
+msgid "404 - Sorry"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-part-ribbon.php:41
+msgid "Search Result"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-part-ribbon.php:55
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/EventPostType.php:18
+msgid "Events"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-part-ribbon.php:57
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/TestimonialsPostType.php:19
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:20
+msgid "Testimonials"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-product-one-no-sidebar.php:34
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/template-product-one.php:24
+msgid "Category"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/ThemeSetup.php:307
+msgid "Header Menu"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/ThemeSetup.php:401
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/wp-pagenavi.php:44
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/wp-pagenavi.php:45
+msgid "..."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/ThemeSetup.php:421
+msgid "Home Page Sidebar 1"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/ThemeSetup.php:422
+msgid "SideBar shown at home page template. First row."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/ThemeSetup.php:431
+msgid "Home Page Sidebar 2"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/ThemeSetup.php:432
+msgid "SideBar shown at home page template. Second row."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/ThemeSetup.php:441
+msgid "Blog Sidebar"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/ThemeSetup.php:442
+msgid "Blog Sidebar Widget Area"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/ThemeSetup.php:451
+msgid "Search Page Sidebar"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/ThemeSetup.php:452
+msgid "SideBar shown at search page template."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/ThemeSetup.php:461
+msgid "Contact Page Sidebar"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/ThemeSetup.php:462
+msgid "SideBar shown at contact page template."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/ThemeSetup.php:471
+msgid "Food Page Sidebar"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/ThemeSetup.php:472
+msgid "SideBar shown at food page template."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/ThemeSetup.php:481
+msgid "Event Page Sidebar"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/ThemeSetup.php:482
+msgid "SideBar shown at event page template."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/ThemeSetup.php:500
+msgid "User Defined"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/ThemeSetup.php:501
+msgid "This sidebar was created in the Theme's Administration Panel."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/AdminSetup.php:116
+msgid "You do not have permission to edit the theme settings"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/ThemeAdmin.php:562
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/ThemeAdmin.php:599
+msgid "Success. Data saved!"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/ThemeAdmin.php:565
+msgid "Options was not changed."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/ThemeAdmin.php:605
+msgid "Options was not changed. Slider data is not saved."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/EventPostType.php:19
+msgid "Event"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/EventPostType.php:20
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/GalleryPostType.php:42
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/TestimonialsPostType.php:21
+msgid "Add New"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/EventPostType.php:21
+msgid "Add New Event"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/EventPostType.php:22
+msgid "Edit Event"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/EventPostType.php:23
+msgid "New Event"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/EventPostType.php:24
+msgid "All Events"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/EventPostType.php:25
+msgid "View Event"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/EventPostType.php:26
+msgid "Search Events"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/EventPostType.php:27
+msgid "No events found"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/EventPostType.php:28
+msgid "No events found in Trash"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/EventPostType.php:39
+msgid "Number of participants"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/EventPostType.php:43
+msgid "Event Attributes"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/GalleryPostType.php:40
+msgid "Galleries"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/GalleryPostType.php:41
+msgid "Gallery Item"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/GalleryPostType.php:43
+msgid "Add New Gallery"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/GalleryPostType.php:44
+msgid "Edit Gallery"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/GalleryPostType.php:45
+msgid "New Gallery"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/GalleryPostType.php:46
+msgid "View Gallery"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/GalleryPostType.php:47
+msgid "Search Gallery"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/GalleryPostType.php:48
+msgid "Nothing found"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/GalleryPostType.php:49
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/GalleryPostType.php:77
+msgid "Gallery Options"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/GalleryPostType.php:154
+msgid "SELECT PHOTOS"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/GalleryPostType.php:187
+msgid "Photo Data"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/GalleryPostType.php:190
+msgid "Image Title"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/GalleryPostType.php:191
+msgid "Image Subtitle"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/GalleryPostType.php:192
+msgid "Image Description"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/GalleryPostType.php:193
+msgid "Add"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/MetaBoxAbstract.php:377
+msgid "No Sidebar"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/MetaBoxAbstract.php:385
+msgid "Select Sidebars"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/MetaBoxAbstract.php:386
+msgid "Selected sidebars will be shown at this page/post"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/PostOptions.php:48
+msgid "Post Event Options"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/PostOptions.php:136
+msgid "Upcoming Events Settings"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/PostOptions.php:137
+msgid "This settings are related to an Upcoming Events only."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/PostOptions.php:142
+msgid "Add Month for Upcoming Event"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/PostOptions.php:143
+msgid "Enter the name of a month in form of a three letters. (ex. APR)"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/PostOptions.php:149
+msgid "Add Day for Upcoming Event"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/PostOptions.php:150
+msgid "Enter two digits. (ex. 12 if an event is scheduled on 12th)"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/PostOptions.php:156
+msgid "Time"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/PostOptions.php:157
+msgid "Enter something like \"Bookstore, 10:00-12:00\""
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ProductPostType.php:19
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:19
+msgid "Products"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ProductPostType.php:20
+msgid "Product"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ProductPostType.php:21
+msgid "Add Product"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ProductPostType.php:22
+msgid "Add New Product"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ProductPostType.php:23
+msgid "Edit Product"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ProductPostType.php:24
+msgid "New Product"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ProductPostType.php:25
+msgid "All Products"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ProductPostType.php:26
+msgid "View Product"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ProductPostType.php:27
+msgid "Search Products"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ProductPostType.php:28
+msgid "No products found"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ProductPostType.php:29
+msgid "No products found in Trash"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ProductPostType.php:36
+msgid "Food Categories"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ProductPostType.php:37
+msgid "Food Category"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ProductPostType.php:38
+msgid "Search Food Categories"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ProductPostType.php:39
+msgid "All Food Categories"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ProductPostType.php:40
+msgid "Parent Category"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ProductPostType.php:41
+msgid "Parent Category :"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ProductPostType.php:42
+msgid "Edit Food Category"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ProductPostType.php:43
+msgid "Update Food Category"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ProductPostType.php:44
+msgid "Add New Food Category"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ProductPostType.php:45
+msgid "New Food Category Name"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ProductPostType.php:54
+msgid "Price"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ProductPostType.php:55
+msgid "Is Specialty"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ProductPostType.php:59
+msgid "Product Attributes"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:62
+msgid "Select a Gallery"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:70
+msgid "Thumb size"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:78
+msgid "Show Title"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:79
+msgid "Main Gallery Title"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:85
+msgid "Show title"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:86
+msgid "Display picture title"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:92
+msgid "Show subtitle"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:93
+msgid "Image Subtitle. This data is visible only with 2 column option"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:99
+msgid "Show picture description"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:100
+msgid "Available only with 2 column option"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:109
+msgid "Youtube URL"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:110
+msgid "Full URL to youtube movie clip."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:116
+msgid "Youtube Movie Width"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:117
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:150
+msgid "Width in pixels or percents."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:123
+msgid "Youtube Movie Height"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:124
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:157
+msgid "Height in pixels."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:135
+msgid "Url"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:136
+msgid "Enter Full Url (ex. http://www.example.com)"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:142
+msgid "Scrolling"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:143
+msgid "Enable scrollbars"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:149
+msgid "Iframe Width"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:156
+msgid "Iframe Height"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:163
+msgid "Border Width"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:164
+msgid "To disable border set Thickness to 0."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:170
+msgid "Margin Height"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:171
+msgid "Set margin for bottom of an Iframe.(Ex. 33px)"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:180
+msgid "Message type"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:191
+msgid "Button Color"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:194
+msgid "Red"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:194
+msgid "Dark"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:199
+msgid "Link Target"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:202
+msgid "New tab in browser"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/ShortcodeButton.php:207
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:391
+msgid "Link"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/TestimonialsPostType.php:20
+msgid "Testimonial"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/TestimonialsPostType.php:22
+msgid "Add New Testimonial"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/TestimonialsPostType.php:23
+msgid "Edit Testimonial"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/TestimonialsPostType.php:24
+msgid "New Testimonial"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/TestimonialsPostType.php:25
+msgid "All Testimonial"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/TestimonialsPostType.php:26
+msgid "View Testimonial"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/TestimonialsPostType.php:27
+msgid "Search Testimonials"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/TestimonialsPostType.php:28
+msgid "No testimonials found"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/TestimonialsPostType.php:29
+msgid "No testimonials found in Trash"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/TestimonialsPostType.php:39
+msgid "Addition info"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/admin/lib/TestimonialsPostType.php:43
+msgid "Testimonials Attributes"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:5
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:11
+msgid "Sliders"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:11
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:16
+msgid "Slider Name"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:12
+msgid "Slider name description."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:18
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:381
+msgid "Slide Type"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:19
+msgid "Slide type description."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:39
+msgid "Theme"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:40
+msgid "Select Theme for the slider."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:49
+msgid "Mode"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:50
+msgid "Set mode to \"vertical\" or \"fade\"."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:91
+msgid "Easing"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:92
+msgid "Sliding effect."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:137
+msgid "Arrows"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:141
+msgid "Build Arrows"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:142
+msgid "If Enabled, builds the forwards and backwards buttons."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:167
+msgid "Toggle Arrows"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:168
+msgid ""
+"If Enabled, side navigation arrows will slide out on hovering & hide @ other "
+"times."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:219
+msgid "Slideshow options"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:223
+msgid "Auto Play"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:224
+msgid ""
+"If Enabled, the slideshow will start running; replaces \"startStopped\" "
+"option."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:231
+msgid "Auto Play Locked"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:232
+msgid "If Enabled, user changing slides will not stop the slideshow."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:239
+msgid "Auto Play Delayed"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:240
+msgid ""
+"If Enabled, starting a slideshow will delay advancing slides; if false, the "
+"slider will immediately advance to the next slide when slideshow starts."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:247
+msgid "Pause on Hover"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:248
+msgid "If Enabled, the slideshow is active, the slideshow will pause on hover."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:255
+msgid "Stop At End"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:256
+msgid ""
+"If Enabled, the slideshow is active, the slideshow will stop on the last "
+"page. This also stops the rewind effect when infiniteSlides is false."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:263
+msgid "Play Rtl"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:264
+msgid "If Enabled,  the slideshow will move right-to-left."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:273
+msgid "Times"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:277
+msgid "Delay"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:278
+msgid ""
+"How long between slideshow transitions in AutoPlay mode (in milliseconds)"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:289
+msgid "Resume Delay"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:290
+msgid ""
+"Resume slideshow after user interaction, only if autoplayLocked is true (in "
+"milliseconds)."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:301
+msgid "Animation Time"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:302
+msgid "How long the slideshow transition takes (in milliseconds)."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:313
+msgid "Delay Before Animate"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:314
+msgid ""
+"How long to pause slide animation before going to the desired slide (used if "
+"you want your \"out\" FX to show)."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:327
+msgid "Interactivity"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:331
+msgid "Allow Rapid Change"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:332
+msgid ""
+"If Enabled, allow rapid changing of the active pane, instead of ignoring "
+"activity during animation."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:373
+msgid "Slide Name"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:374
+msgid "Slide name description."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:392
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:554
+msgid "Link slide with particular page on your site or any external link."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:401
+msgid "Video ID"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:402
+msgid "Video ID."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:438
+msgid "Item File"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:439
+msgid "Url to the image file for this slide."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:450
+msgid "Video Alignment"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:451
+msgid ""
+"Align video to left, right or center This option does not apply to Full "
+"slider."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:463
+msgid "Item Width"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:464
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:477
+msgid "Set to 0 for defaults (Auto)."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:476
+msgid "Item Height"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:491
+msgid "Text Box Options"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:496
+msgid "Show Slide Description Box"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:497
+msgid "Set to Enabled to show slide description box."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:507
+msgid "Description Box Width"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:508
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:520
+msgid "Set 0 for default settings."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:519
+msgid "Description Box Height"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:531
+msgid "Description box position"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:532
+msgid ""
+"Where would you like to position description box. Applicable on \"Standard\" "
+"and \"Full\" slider "
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:543
+msgid "Show Slide Heading"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:544
+msgid "Set to Enabled to show Main slide heading."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:553
+msgid "Slide Heading"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:563
+msgid "Show Sub Heading"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:564
+msgid "Set to Enabled to show sub heading."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:573
+msgid "Slide Sub Heading"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:574
+msgid "Subheading text."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:583
+msgid "Show description"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:584
+msgid "Set to Enabled to show slide description."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:593
+msgid "Slide Description"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:594
+msgid "Following HTML tags are allowed in description (p, i, b, span, a)."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:603
+msgid "Show More Button"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_slider_options.php:604
+msgid ""
+"Set to Enabled to show button. This option is related to \"Default\" slider "
+"only."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:10
+msgid "Main Settings"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:12
+msgid "Help"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:17
+msgid "Look & Feel"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:21
+msgid "Header"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:22
+msgid "Footer"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:23
+msgid "Home Page"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:24
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:751
+msgid "Google Maps"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:25
+msgid "Contact"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:26
+msgid "Social"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:27
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:400
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:415
+msgid "Google Analitics"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:28
+msgid "Sidebars"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:29
+msgid "Misc"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:33
+msgid "Colors & Images"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:35
+msgid "common color settings"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:38
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:43
+msgid "Color Shemes"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:44
+msgid "Select Color Sheme"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:61
+msgid "Images"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:66
+msgid "Logo"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:67
+msgid "Customize your logo. Logo height should not be greater than 100px."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:73
+msgid "Logo width"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:74
+msgid ""
+"Logo width in px. Leave this field blank for default value. Enter only a "
+"number."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:80
+msgid "Logo Height"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:81
+msgid ""
+"Logo height in px. Leave this field blank for default value. Enter only a "
+"number."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:87
+msgid "Favicon image"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:88
+msgid "Favicon image. 16x16 pixels."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:95
+msgid "Product Settings"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:97
+msgid "general settings related to food and beaverages"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:101
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:146
+msgid "Enable Meta Data"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:102
+msgid ""
+"Disable this option to hide product's meta data.[date, author, categories]"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:108
+msgid "Menu of a day "
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:109
+msgid "Selected items will apear at price page."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:120
+msgid "Testimonial's Settings"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:122
+msgid "general settings related to testimonials page"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:126
+msgid "Show Page Title"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:127
+msgid "Show page title above testimonials"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:133
+msgid "Show Page Intro Text"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:134
+msgid "Show page content above a list of testimonials"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:140
+msgid "Blog Settings"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:142
+msgid "all about blog"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:147
+msgid ""
+"Disable this option to hide blog post meta data.[date, author, categories]"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:153
+msgid "Hide Categories "
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:154
+msgid ""
+"Select categories you do not want to appear on your blog page. This option "
+"is related to a Kids Category widget."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:163
+msgid "Read More Text Button"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:164
+msgid "Replace \"Read More\" with this text"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:170
+msgid "Show comments"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:171
+msgid "Press Enabled button to allow users to make a comments"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:177
+msgid "Hide sidebar"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:178
+msgid ""
+"Enable this option in case you do not need a sidebar in Category/Archive "
+"pages."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:185
+msgid "Be Social"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:187
+msgid "socialize it"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:191
+msgid "Enable Social Icons"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:192
+msgid "Press disable to remove social icons in header section."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:208
+msgid "Facebook"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:209
+msgid ""
+"Link to your Facebook Profile/Page. (Do not forget do add \"http://\" as "
+"prefix)"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:217
+msgid "Twitter"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:218
+msgid ""
+"Link to your Twitter profile. (Do not forget do add \"http://\" as prefix)"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:226
+msgid "Google+"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:227
+msgid ""
+"Link to your Google+ profile. (Do not forget do add \"http://\" as prefix)"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:235
+msgid "Pin it"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:236
+msgid ""
+"Link to your Pinterest profile. (Do not forget do add \"http://\" as prefix)"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:244
+msgid "Youtube Channel"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:245
+msgid ""
+"Link to your Youtube profile. (Do not forget do add \"http://\" as prefix)"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:253
+msgid "LinkedIn"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:254
+msgid ""
+"Link to your LinkedIn profile. (Do not forget do add \"http://\" as prefix)"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:262
+msgid "RSS Channel"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:263
+msgid ""
+"Full URL to your newsfeeds. (Do not forget do add \"http://\" as prefix)"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:271
+msgid "Contact Info / Settings"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:273
+msgid "contact info"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:278
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:316
+msgid "E-mail Address"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:279
+msgid "E-mail address displayed at contact page and 404 page."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:289
+msgid "Phone number displayed at Contact page."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:296
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeContactInfoWidget.php:128
+msgid "Fax"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:297
+msgid "Fax number diplayed at Contact page."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:305
+msgid "Full Address"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:306
+msgid "Address displayed at Contact page."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:311
+msgid "Book A Table Form"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:317
+msgid "E-mail address where all reservation will be send."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:324
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:360
+msgid "Auto Reply"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:325
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:361
+msgid ""
+"If you enable this option, visitors who send you an email message will "
+"receive a confirmation e-mail message."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:331
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:367
+msgid "E-mail Subject"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:332
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:368
+msgid "Enter an e-mail subject of automated e-mail message."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:338
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:391
+msgid "Response Message"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:339
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:392
+msgid "Text of an Autoreply e-mail message."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:348
+msgid "Contact Form"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:353
+msgid "Show Contact Form"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:354
+msgid "To hide contact form disable this option"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:374
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeContactFormWidget.php:93
+msgid "Your name"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:375
+msgid "\"From\" field in an automated e-mail message."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:383
+msgid "E-mail address"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:384
+msgid ""
+"Email address where you will receiving messages from contact form. This e-"
+"mail address will be included in a \"From\" field of an Automated e-mail "
+"message"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:402
+msgid "google"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:406
+msgid "Enable Google Analitics"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:407
+msgid "By default Google Analitics are disabled. Click Enabled to activate it."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:416
+msgid ""
+"If you have a google analytics account setup, you can paste your code in the "
+"text area to the side. Make sure to include the opening and closing script "
+"tags. Your tracking code will be copied to the footer of each page on your "
+"site.\n"
+"\t\t\t\t\t\t\t  "
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:427
+msgid "Header settings"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:429
+msgid "setup your header"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:434
+msgid "Teaser text"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:435
+msgid "Disable this option to hide Teaser"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:441
+msgid "Breadcrumbs"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:442
+msgid "Disable this option to hide breadcrumbs"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:448
+msgid "Hide breadcrumbs text"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:449
+msgid "Enable this option to hide text \"You are here:\""
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:455
+msgid "Show Book Table Link"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:456
+msgid "Enable this option to show Book a Table Link in heater section."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:462
+msgid "Footer settings"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:464
+msgid "setup your footer"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:469
+msgid "Show footer section"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:470
+msgid "Show or Hide footer section."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:476
+msgid "Show subfooter section"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:477
+msgid "Show or Hide subfooter section."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:483
+msgid "Copyright Text"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:484
+msgid "Show or Hide Copyright in footer section. Thick checkbox to show."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:491
+msgid "Copyright"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:492
+msgid "Copyright text in footer section"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:501
+msgid "Show Terms of Use Link"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:509
+msgid "Terms of Use Link"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:510
+msgid "Link to the page \"Term of Use\""
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:518
+msgid "Show Copyright Link"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:526
+msgid "Copyright Link"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:527
+msgid "Link to the Copyrights"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:553
+msgid "Home Page settings"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:558
+msgid "Slider section"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:564
+msgid "Hide Slider"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:565
+msgid "Enable this option to hide the Slider section at home page."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:571
+msgid "Featured section"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:577
+msgid "Show Featured section"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:578
+msgid "To hide featured section disable this option"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:585
+msgid "Data Source for Featured section"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:586
+msgid "Choose between posts or pages."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:591
+msgid "SINGLE POST"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:592
+msgid "SINGLE PAGE"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:593
+msgid "POST CATEGORY"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:594
+msgid "PAGES"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:595
+msgid "MENU ITEMS"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:601
+msgid "Post Category"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:602
+msgid "Posts from this category will be shown at home page."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:616
+msgid "List of Pages"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:617
+msgid "Selected pages will be displayed in featured section."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:627
+msgid "List of Menu Items"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:628
+msgid "Selected menu items will be displayed in featured section."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:639
+msgid "Items per row"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:640
+msgid "Number of items per row."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:654
+msgid "Items per slide"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:655
+msgid "Number of items to slide at once."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:669
+msgid "Image Height"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:670
+msgid "Select image orientation."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:680
+msgid "Featured Post"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:681
+msgid "Select a post shown at featured area."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:690
+msgid "Featured Page"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:691
+msgid "Select a page shown at featured area."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:700
+msgid "Show entire post/page content"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:701
+msgid ""
+"By default it shows an excerpt without formatting. Change this option to "
+"show entire content of the post/page."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:710
+msgid "Show Read more link"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:711
+msgid "To hide Read more link in featured section disable this option"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:745
+msgid "Google Maps Settings"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:747
+msgid "google maps"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:752
+msgid "Turn this option on if you want to enable google maps."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:759
+msgid "Google Maps Zoom"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:760
+msgid "Zoom parameter. Valid values are from 1 to 20."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:768
+msgid "Latitude"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:769
+msgid "Enter first coordinate."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:775
+msgid "Longitude"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:776
+msgid "Enter second coordinate."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:782
+msgid "Select your position"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:783
+msgid "Drag and drop marker."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:792
+msgid "Custom Sidebars"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:794
+msgid "Create your sidebars"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:798
+msgid "Sidebar Name"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:799
+msgid "Letters and numbers allowed."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:808
+msgid "Misc settings"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:814
+msgid "Customs"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:820
+msgid "Custom CSS"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:821
+msgid "Enter Your custom CSS code."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:828
+msgid "Custom Javascript"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:829
+msgid "Enter Your custom JS code."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:836
+msgid "404 title"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:837
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:845
+msgid "This message is shown when requested page can not be found"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/config/default_theme_options.php:844
+msgid "404 text"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/functions/common.php:32
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/functions/common.php:50
+msgid "Sending E-mails not allowed."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/functions/common.php:55
+msgid "Unknown request"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/functions/common.php:578
+msgid ""
+"Comment need to be approved by administrator in order to be visible by "
+"others."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/ThemeMailer.php:79
+msgid "Required"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/ThemeMailer.php:85
+msgid "Invalid Data"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/ThemeMailer.php:118
+msgid "Message sent via contact form."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/ThemeMailer.php:119
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/ThemeMailer.php:184
+msgid "To view the message, please use an HTML compatible email viewer!"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/ThemeMailer.php:123
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/ThemeMailer.php:150
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/ThemeMailer.php:188
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/ThemeMailer.php:209
+msgid "Unable to send an e-mail message. Please contact an administrator."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/ThemeMailer.php:159
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/ThemeMailer.php:218
+msgid "Unable to Sent an email message. Please try again."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/ThemeMailer.php:183
+msgid "Message sent via Book a Table form."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/ThemeMailer.php:222
+msgid "Fields marked with an Asterisk (*) are required."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/ThemeMailer.php:228
+msgid "Mail Sent. Thank You!"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/ThemeMailer.php:243
+msgid "Mail sent via Book a Table form."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/ThemeMailer.php:245
+msgid "Number of guests:"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/ThemeMailer.php:246
+msgid "Date:"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/ThemeMailer.php:247
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/ThemeMailer.php:260
+msgid "Mail:"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/ThemeMailer.php:248
+msgid "Phone:"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/ThemeMailer.php:249
+msgid "Additional info:"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/ThemeMailer.php:256
+msgid "Mail sent via contact form."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/ThemeMailer.php:258
+msgid "Name:"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/ThemeMailer.php:259
+msgid "Subject:"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/ThemeMailer.php:261
+msgid "Web Address:"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/ThemeMailer.php:262
+msgid "Message:"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/ThemeOptions.php:238
+msgid "Config file corrupted!"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/ThemeOptions.php:242
+msgid "Unable to read file"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/ThemeOptions.php:242
+msgid "Or file missing!"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/ThemeShortcodes.php:124
+msgid "Shortcode Options"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/ThemeShortcodes.php:131
+msgid "Insert"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/library/Validator.php:476
+msgid "No Errors"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/breadcrumbs-plus/breadcrumbs-plus.php:50
+msgid "You are here: "
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/breadcrumbs-plus/breadcrumbs-plus.php:51
+msgid "Home"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/breadcrumbs-plus/breadcrumbs-plus.php:137
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/breadcrumbs-plus/breadcrumbs-plus.php:140
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/breadcrumbs-plus/breadcrumbs-plus.php:143
+msgid "Archives for "
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/breadcrumbs-plus/breadcrumbs-plus.php:147
+msgid "Author / "
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/breadcrumbs-plus/breadcrumbs-plus.php:152
+msgid "Search results for: "
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/breadcrumbs-plus/breadcrumbs-plus.php:156
+msgid "Page Not Found"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/custom-taxonomy-sort/custom-taxonomy-sort.php:29
+msgid ""
+"The Custom Taxonomy Sort plugin requires the use of Wordpress 3.0 or higher. "
+"Please update!"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/custom-taxonomy-sort/custom-taxonomy-sort.php:152
+msgid "On"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/custom-taxonomy-sort/custom-taxonomy-sort.php:156
+msgid "Off"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/custom-taxonomy-sort/custom-taxonomy-sort.php:164
+msgid "Ascending"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/custom-taxonomy-sort/custom-taxonomy-sort.php:168
+msgid "Descending"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/custom-taxonomy-sort/custom-taxonomy-sort.php:237
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/custom-taxonomy-sort/custom-taxonomy-sort.php:255
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/custom-taxonomy-sort/custom-taxonomy-sort.php:607
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/custom-taxonomy-sort/custom-taxonomy-sort.php:683
+msgid "Order"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/custom-taxonomy-sort/custom-taxonomy-sort.php:239
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/custom-taxonomy-sort/custom-taxonomy-sort.php:259
+msgid "Determines the order in which the term is displayed."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/custom-taxonomy-sort/custom-taxonomy-sort.php:448
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/custom-taxonomy-sort/custom-taxonomy-sort.php:460
+msgid "Custom Taxonomy Sort Settings"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/custom-taxonomy-sort/custom-taxonomy-sort.php:448
+msgid "Custom Taxonomy Sort"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/custom-taxonomy-sort/custom-taxonomy-sort.php:464
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/CustomPostTypePageTemplate/CustomPostTypePageTemplate.php:170
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/scb/AdminPage.php:178
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/scb/AdminPage.php:189
+msgid "Save Changes"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/custom-taxonomy-sort/custom-taxonomy-sort.php:477
+msgid "General"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/custom-taxonomy-sort/custom-taxonomy-sort.php:480
+msgid "Automatic Sort"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/custom-taxonomy-sort/custom-taxonomy-sort.php:483
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/custom-taxonomy-sort/custom-taxonomy-sort.php:555
+msgid "Sort Order"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/custom-taxonomy-sort/custom-taxonomy-sort.php:523
+msgid "Sort Management"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/custom-taxonomy-sort/custom-taxonomy-sort.php:537
+msgid "Control Type"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/custom-taxonomy-sort/custom-taxonomy-sort.php:692
+msgid "Class CustomTaxonomySort already exists."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/CustomPostTypePageTemplate/CustomPostTypePageTemplate.php:54
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/CustomPostTypePageTemplate/CustomPostTypePageTemplate.php:66
+msgid "Page Template"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/CustomPostTypePageTemplate/CustomPostTypePageTemplate.php:60
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/CustomPostTypePageTemplate/CustomPostTypePageTemplate.php:136
+msgid "Custom Post Type Page Template"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/CustomPostTypePageTemplate/CustomPostTypePageTemplate.php:67
+msgid "Default Template"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/CustomPostTypePageTemplate/CustomPostTypePageTemplate.php:141
+msgid "Settings saved."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/CustomPostTypePageTemplate/CustomPostTypePageTemplate.php:150
+msgid "Custom Post Types"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/CustomPostTypePageTemplate/CustomPostTypePageTemplate.php:165
+msgid "Enforcement Mode"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/CustomPostTypePageTemplate/CustomPostTypePageTemplate.php:166
+msgid ""
+"Check this in case of using  themes like Twenty Eleven, Twenty Twelve, etc."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/regenerate-thumbnails/regenerate-thumbnails.php:56
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/regenerate-thumbnails/regenerate-thumbnails.php:81
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/regenerate-thumbnails/regenerate-thumbnails.php:95
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/regenerate-thumbnails/regenerate-thumbnails.php:112
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/regenerate-thumbnails/regenerate-thumbnails.php:146
+msgid "Regenerate Thumbnails"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/regenerate-thumbnails/regenerate-thumbnails.php:56
+msgid "Regen. Thumbnails"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/regenerate-thumbnails/regenerate-thumbnails.php:81
+msgid "Regenerate the thumbnails for this single image"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/regenerate-thumbnails/regenerate-thumbnails.php:154
+msgid "Cheatin&#8217; uh?"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/regenerate-thumbnails/regenerate-thumbnails.php:168
+#, php-format
+msgid "Unable to find any images. Are you sure <a href='%s'>some exist</a>?"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/regenerate-thumbnails/regenerate-thumbnails.php:179
+msgid ""
+"Please be patient while the thumbnails are regenerated. This can take a "
+"while if your server is slow (inexpensive hosting) or if you have many "
+"images. Do not navigate away from this page until this script is done or the "
+"thumbnails will not be resized. You will be notified via this page when the "
+"regenerating is completed."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/regenerate-thumbnails/regenerate-thumbnails.php:183
+#, php-format
+msgid "To go back to the previous page, <a href=\"%s\">click here</a>."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/regenerate-thumbnails/regenerate-thumbnails.php:184
+#, php-format
+msgid ""
+"All done! %1$s image(s) were successfully resized in %2$s seconds and there "
+"were %3$s failure(s). To try regenerating the failed images again, <a href="
+"\"%4$s\">click here</a>. %5$s"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/regenerate-thumbnails/regenerate-thumbnails.php:185
+#, php-format
+msgid ""
+"All done! %1$s image(s) were successfully resized in %2$s seconds and there "
+"were 0 failures. %3$s"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/regenerate-thumbnails/regenerate-thumbnails.php:189
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/regenerate-thumbnails/regenerate-thumbnails.php:332
+msgid "You must enable Javascript in order to proceed!"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/regenerate-thumbnails/regenerate-thumbnails.php:195
+msgid "Abort Resizing Images"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/regenerate-thumbnails/regenerate-thumbnails.php:197
+msgid "Debugging Information"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/regenerate-thumbnails/regenerate-thumbnails.php:200
+#, php-format
+msgid "Total Images: %s"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/regenerate-thumbnails/regenerate-thumbnails.php:201
+#, php-format
+msgid "Images Resized: %s"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/regenerate-thumbnails/regenerate-thumbnails.php:202
+#, php-format
+msgid "Resize Failures: %s"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/regenerate-thumbnails/regenerate-thumbnails.php:233
+msgid "Stopping..."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/regenerate-thumbnails/regenerate-thumbnails.php:322
+#, php-format
+msgid ""
+"Use this tool to regenerate thumbnails for all images that you have uploaded "
+"to your blog. This is useful if you've changed any of the thumbnail "
+"dimensions on the <a href='%s'>media settings page</a>. Old thumbnails will "
+"be kept to avoid any broken images due to hard-coded URLs."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/regenerate-thumbnails/regenerate-thumbnails.php:324
+#, php-format
+msgid ""
+"You can regenerate specific images (rather than all images) from the <a "
+"href='%s'>Media</a> page. Hover over an image's row and click the link to "
+"resize just that one image or use the checkboxes and the &quot;Bulk "
+"Actions&quot; dropdown to resize multiple images (WordPress 3.1+ only)."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/regenerate-thumbnails/regenerate-thumbnails.php:326
+msgid ""
+"Thumbnail regeneration is not reversible, but you can just change your "
+"thumbnail dimensions back to the old values and click the button again if "
+"you don't like the results."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/regenerate-thumbnails/regenerate-thumbnails.php:328
+msgid "To begin, just press the button below."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/regenerate-thumbnails/regenerate-thumbnails.php:330
+msgid "Regenerate All Thumbnails"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/regenerate-thumbnails/regenerate-thumbnails.php:354
+#, php-format
+msgid "Failed resize: %s is an invalid image ID."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/regenerate-thumbnails/regenerate-thumbnails.php:357
+msgid "Your user account doesn't have permission to resize images"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/regenerate-thumbnails/regenerate-thumbnails.php:362
+#, php-format
+msgid "The originally uploaded image file cannot be found at %s"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/regenerate-thumbnails/regenerate-thumbnails.php:371
+msgid "Unknown failure reason."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/regenerate-thumbnails/regenerate-thumbnails.php:376
+#, php-format
+msgid "&quot;%1$s&quot; (ID %2$s) was successfully resized in %3$s seconds."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/regenerate-thumbnails/regenerate-thumbnails.php:382
+#, php-format
+msgid ""
+"&quot;%1$s&quot; (ID %2$s) failed to resize. The error message was: %3$s"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/admin.php:9
+msgid "PageNavi Settings"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/admin.php:10
+msgid "PageNavi"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/admin.php:28
+msgid "Text For Number Of Pages"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/admin.php:33
+msgid "The current page number."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/admin.php:34
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/admin.php:58
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/admin.php:66
+msgid "The total number of pages."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/admin.php:38
+msgid "Text For Current Page"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/admin.php:42
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/admin.php:50
+msgid "The page number."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/admin.php:46
+msgid "Text For Page"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/admin.php:54
+msgid "Text For First Page"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/admin.php:62
+msgid "Text For Last Page"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/admin.php:70
+msgid "Text For Previous Page"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/admin.php:76
+msgid "Text For Next Page"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/admin.php:82
+msgid "Text For Previous ..."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/admin.php:88
+msgid "Text For Next ..."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/admin.php:95
+msgid "Page Navigation Text"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/admin.php:96
+msgid "Leaving a field blank will hide that part of the navigation."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/admin.php:102
+msgid "Use pagenavi-css.css"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/admin.php:108
+msgid "Page Navigation Style"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/admin.php:111
+msgid "Normal"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/admin.php:111
+msgid "Drop-down List"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/admin.php:116
+msgid "Always Show Page Navigation"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/admin.php:119
+msgid "Show navigation even if there's only one page."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/admin.php:123
+msgid "Number Of Pages To Show"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/admin.php:130
+msgid "Number Of Larger Page Numbers To Show"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/admin.php:135
+msgid ""
+"Larger page numbers are in addition to the normal page numbers. They are "
+"useful when there are many pages of posts."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/admin.php:136
+msgid ""
+"For example, WP-PageNavi will display: Pages 1, 2, 3, 4, 5, 10, 20, 30, 40, "
+"50."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/admin.php:137
+msgid "Enter 0 to disable."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/admin.php:141
+msgid "Show Larger Page Numbers In Multiples Of"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/admin.php:146
+msgid "For example, if mutiple is 5, it will show: 5, 10, 15, 20, 25"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/admin.php:151
+msgid "Page Navigation Options"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/wp-pagenavi.php:37
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/wp-pagenavi.php:40
+msgid "&laquo; First"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/wp-pagenavi.php:41
+msgid "Last &raquo;"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/wp-pagenavi.php:42
+msgid "&laquo;"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/wp-pagenavi.php:43
+msgid "&raquo;"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/scb/AdminPage.php:165
+msgid "Settings <strong>saved</strong>."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/plugins/wp-pagenavi/scb/AdminPage.php:351
+msgid "Settings"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeChefWidget.php:8
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeChefWidget.php:10
+msgid "Mazzareli - Chef"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeChefWidget.php:63
+msgid "In order to use this widget you need to create Chef's page."
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeChefWidget.php:66
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeMenuHighlightsWidget.php:77
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeRecentPostsWidget.php:78
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeSpecialWidget.php:60
+msgid "Title:"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeChefWidget.php:70
+msgid "Select a Chef's page:"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeChefWidget.php:79
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeMenuHighlightsWidget.php:90
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeSpecialWidget.php:73
+msgid "Show read more link"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeContactFormWidget.php:13
+msgid "Mazzareli - Contact Form"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeContactFormWidget.php:17
+msgid "Mazzareli - Contact Form Widget"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeContactFormWidget.php:36
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeEventsWidget.php:38
+msgid "Widget Title"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeContactInfoWidget.php:15
+msgid "Contact Info"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeContactInfoWidget.php:19
+msgid "Mazzareli Contact Info Widget"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeContactInfoWidget.php:48
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeContactInfoWidget.php:52
+msgid "Address Box Title"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeContactInfoWidget.php:52
+msgid "Address"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeContactInfoWidget.php:116
+msgid "Main office"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeContactInfoWidget.php:134
+msgid "E-mail"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeEventsWidget.php:13
+msgid "Mazzareli - News and Events"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeEventsWidget.php:17
+msgid "Mazzareli - News and Events Widget"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeEventsWidget.php:42
+msgid "Category of posts"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeMenuHighlightsWidget.php:10
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeMenuHighlightsWidget.php:12
+msgid "Mazzareli - Menu Highlights"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeMenuHighlightsWidget.php:49
+msgid "Look for more"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeMenuHighlightsWidget.php:81
+msgid "Select Menu Highlights:"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeRecentPostsWidget.php:9
+msgid "Mazzareli - The most recent posts on your site"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeRecentPostsWidget.php:10
+msgid "Mazzareli - Recent Posts"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeRecentPostsWidget.php:32
+msgid "Recent Posts"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeRecentPostsWidget.php:81
+msgid "Number of posts to show:"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeSpecialWidget.php:10
+msgid "Mazzareli - Special Offers"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeSpecialWidget.php:12
+msgid "Mazzareli - Special Offer"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeSpecialWidget.php:64
+msgid "Select a product:"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeWorkingHoursWidget.php:10
+msgid "Working Hours Box"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeWorkingHoursWidget.php:14
+msgid "Mazzareli Working Hours Widget"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeWorkingHoursWidget.php:26
+msgid "Working Hours Box Title"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeWorkingHoursWidget.php:42
+msgid "Box Title"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeWorkingHoursWidget.php:47
+msgid "Subtitle 1"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeWorkingHoursWidget.php:51
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeWorkingHoursWidget.php:59
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeWorkingHoursWidget.php:72
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeWorkingHoursWidget.php:80
+msgid "Days"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeWorkingHoursWidget.php:55
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeWorkingHoursWidget.php:63
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeWorkingHoursWidget.php:76
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeWorkingHoursWidget.php:84
+msgid "Working Hours"
+msgstr ""
+
+#: C:\Users\milos\Documents\sites\mazzareli\www\342\wp-content\themes\mazzareli/framework/widgets/TlThemeWorkingHoursWidget.php:68
+msgid "Subtitle 2"
+msgstr ""
